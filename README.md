@@ -1,0 +1,2 @@
+# ezzz
+Ezzz - Script Manager
